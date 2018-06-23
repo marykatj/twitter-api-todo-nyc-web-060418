@@ -16,7 +16,7 @@ class TwitterApi
 
 
   def most_recent_friend
-    client.friends.first
+    client.friends.last
   end
 
   def find_user_for(username)
