@@ -33,7 +33,7 @@ class TwitterApi
 
 end
 
-#Bonus: 
+#Bonus:
 
 # uncomment out the following and read the bonus instructions.
 # remember to comment out the WebMock line of your spec_helper, as the instructions dictate.
